@@ -1,0 +1,24 @@
+CHAIN OF HOPE SACCO
+Requirements of the System
+-Member Registration
+-Admin Interface
+-Member Logins
+-Savings Account
+-Normal Usage Account
+-Manage Customer Data
+-Loans Interface
+
+-Mobile Web App
+-Admin Interface from Firebase
+-Data Analytics
+-MPESA Integrations
+-CDN Integrations
+-Savings Progress
+-Employee Data Management
+
+Expenses Management System
+-Simple Expense
+-All third Party SMS
+
+-Ground Customer Registration
+
